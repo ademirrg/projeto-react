@@ -1,5 +1,5 @@
-function Titulo() {
+function Title() {
     return <h1>Primeiro Projeto React</h1>
 }
 
-export default Titulo
+export default Title
